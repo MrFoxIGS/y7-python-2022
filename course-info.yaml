@@ -1,0 +1,16 @@
+title: Year 7 Python S2
+language: English
+summary: |-
+  Python course.
+  Created: Jul 20, 2021, 2:05:25 PM.
+programming_language: Python
+environment: unittest
+content:
+- print
+- input
+- variables
+- conditionals
+- import
+- loops
+- functions
+- Project

@@ -1,0 +1,17 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 396
+    length: 5
+    placeholder_text: '# TODO'
+  - offset: 493
+    length: 300
+    placeholder_text: '# TODO'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false
+- name: smiley.png
+  visible: true

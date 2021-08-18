@@ -1,0 +1,22 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 125
+    length: 82
+    placeholder_text: '# TODO'
+  - offset: 268
+    length: 30
+    placeholder_text: '# TODO'
+  - offset: 405
+    length: 108
+    placeholder_text: '# TODO'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: fuzzy.png
+  visible: true
